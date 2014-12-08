@@ -7,5 +7,6 @@ This is test repository
 nkkkkkn
 
 ## file 
+hogehoge.txt
 
 ## release
